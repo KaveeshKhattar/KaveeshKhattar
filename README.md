@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://kaveeshkhattar.github.io/personalwebsite/pdfs/Resume.pdf](https://kaveeshkhattar.github.io/personalwebsite/pdfs/Resume.pdf)
 
-- ⚡ Fun fact **Why does Tarzan not have a beard?**
+- ⚡ Fun Fact **Do LeetCode the right way https://neetcode.io/roadmap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
