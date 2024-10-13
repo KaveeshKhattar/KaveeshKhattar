@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaveeshKhattar](https://github.com/KaveeshKhattar)
+- 👨‍💻 All of my projects are available at [https://kaveeshkhattar.github.io/projects](https://kaveeshkhattar.github.io/projects)
 
 - 📫 How to reach me **kaveeshkhattar@gmail.com**
 
